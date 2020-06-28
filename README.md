@@ -14,6 +14,7 @@
 - [What is this?](#what-is-this)
 - [Version History](#version-history)
 - [Preview](#preview)
+- [Try a demo](#try-a-demo)
 - [Have questions?](#have-questions)
 
 ## What is this?
@@ -33,6 +34,10 @@ Thanks for your visiting! 👍
 ![Index](https://res.cloudinary.com/developerteam/image/upload/v1591850215/HamburgerMenu/index.png)
 ![Menu](https://res.cloudinary.com/developerteam/image/upload/v1591850213/HamburgerMenu/menu.png) 
 ![Menu-Gif](https://res.cloudinary.com/developerteam/image/upload/v1591850356/HamburgerMenu/menu-animate.gif) 
+
+## Try a demo
+
+If you want to try a live and free demo of this Hamburger Menu, you can do it, just need to go to <a href="https://codepen.io/hgodinez/pen/QWyqwxj" target="_blank">Codepen.io</a>
 
 ## Have questions?
 
